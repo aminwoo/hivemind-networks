@@ -59,7 +59,3 @@ Model files follow the pattern: `model-{loss}-{accuracy}-{epoch}-v{version}.{ext
 - **accuracy**: Validation policy accuracy
 - **epoch**: Training epoch number
 - **version**: Model architecture version
-
-## License
-
-See LICENSE file for details.
